@@ -30,3 +30,11 @@
 - Linear Regression
 
  ---------
+
+### Conclusion
+
+Answer to the initial question: What Factors Affect Airbnb Pricing the Most?
+- Bedroom features: number of bedrooms, accomodates, and beds
+- Other factors that also impacted: location and neighborhood
+
+Idea: Price is likely to fluctuate according to the amenities supplied in each individual listing
